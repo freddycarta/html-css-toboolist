@@ -53,3 +53,12 @@ h1 {
 .taskviolet {
     background-color: violet;
 }
+
+.circle {
+    height: 25px;
+    width: 25px;
+    border: 1px solid black;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 25px;
+}
