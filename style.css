@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: lightgrey;
+    background-color: rgb(126, 124, 124);
     font-family: 'roboto';
 }
 header {
@@ -17,4 +17,27 @@ header {
 h1 {
     vertical-align: middle;
     display: inline;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    margin-top: 50px;
+}
+
+
+.button1 {
+    background-color: dodgerblue;
+} 
+
+.task {
+    display: inline-block;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.taskblue{
+    background-color: blue;
 }
